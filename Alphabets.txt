@@ -1,0 +1,6 @@
+#Alphabets
+#Fri Jun 12 12:12:55 IST 2020
+A=Apple
+D=Donkey
+c=Cat
+B=Ball
